@@ -1,9 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 28 12:11:10 2023
-@author: 888254
-Description : SIFT algorithm applied to a dataset of paintings
-to cmpare similarity points
+########################################################################################################
+########################################################################################################
+        
+    Author       : GON0
+    Organization : Fontys University of Applied Sciences
+    Source Name  : image_matching_SIFT.py
+    Description  : SIFT-based comparisson for multiple copies of Madonna and Child painting
+
+########################################################################################################
+########################################################################################################
 """
 
 import cv2 
