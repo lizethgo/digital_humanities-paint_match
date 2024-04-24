@@ -1,0 +1,1 @@
+This repository contains multiple Python files that aims to recognize key differences on copies of Madonna and Child from different galleries. This research is an ongoing project that might answer some questions such as similarities across different galleries as well as direct connections with the original painting. 
