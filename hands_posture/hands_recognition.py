@@ -1,17 +1,18 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb  9 11:53:53 2024
+########################################################################################################
+########################################################################################################
+        
+    Author       : GON0
+    Organization : Fontys University of Applied Sciences
+    Source Name  : hands_recognition.py
+    Description  : Recognize and compare hand postures across different copies of Madonna and Child.
+                   There is also a proposed score to compare the most similar feastures of hands.
 
-@author: 888254
+########################################################################################################
+########################################################################################################
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 28 12:11:10 2023
-@author: 888254
-Description : SIFT algorithm applied to a dataset of paintings
-to cmpare similarity points
-"""
 
 import cv2 
 import matplotlib.pyplot as plt
